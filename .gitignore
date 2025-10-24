@@ -1,0 +1,79 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# Virtual environments
+venv/
+env/
+ENV/
+env.bak/
+venv.bak/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Logs
+*.log
+logs/
+
+# Temporary files
+*.tmp
+*.temp
+*.bak
+
+# SPICE simulation files
+*.ic0
+*.mt0
+*.pa0
+*.st0
+*.tr0
+output.txt
+
+# Excel files (if you don't want to track them)
+*.xlsx
+*.xls
+
+# Generated files
+error_detection.log
+swap_history.json
+intermediate_*.npz
+error_analysis_*.png
+error_report_*.txt
+correction_comparison_*.png
+error_analysis_*.xlsx
+
+# Data files (uncomment if you don't want to track data)
+# data/*.txt
+# data/*.csv 
