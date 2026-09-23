@@ -4,7 +4,9 @@
 
 This is the official repository for the paper "Dyn-A-Map: Dynamic AI-Model Mapping for Robust and Accurate MRAM-based Analog Edge Computing". Dyn-A-Map is a novel post-training framework for variation-aware dynamic subarray mapping in SOT-MRAM-based in-memory analog computing (IMAC) edge systems.
 
-To develop and validate our approach, we have extended the IMAC-Sim framework, a Python-based, circuit-level simulator. Our contributions are integrated into the base simulator to create a complete, fault-aware simulation and mitigation workflow.
+To develop and validate our approach, we have extended the IMAC-Sim framework, a Python-based, circuit-level simulator. Our contributions are integrated into the base simulator to create a complete, fault-aware simulation and mitigation workflow. 
+
+**This repository is actively maintained and may be updated as the framework is further improved. For additional information or questions, please contact the authors at [mmc7@arizona.edu](mailto:mmc7@arizona.edu).**
 
 # Key Contributions: From IMAC-Sim to Dyn-A-Map
 
