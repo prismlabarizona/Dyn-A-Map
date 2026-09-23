@@ -6,7 +6,7 @@ This is the official repository for the paper "Dyn-A-Map: Dynamic AI-Model Mappi
 
 To develop and validate our approach, we have extended the IMAC-Sim framework, a Python-based, circuit-level simulator. Our contributions are integrated into the base simulator to create a complete, fault-aware simulation and mitigation workflow. 
 
-**This repository is actively maintained and may be updated as the framework is further improved. For additional information or questions, please contact the authors at [mmc7@arizona.edu](mailto:mmc7@arizona.edu).**
+**This repository is under active development and will continue to be updated as the framework evolves. For additional information or questions, please contact the authors at [mmc7@arizona.edu](mailto:mmc7@arizona.edu).**
 
 # Key Contributions: From IMAC-Sim to Dyn-A-Map
 
